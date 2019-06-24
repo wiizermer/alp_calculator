@@ -1,7 +1,7 @@
 import React from 'react'
 import Numbers from './numbers.js';
 import { OperatorsCol, OperatorsRow } from './operators.js'
-import './display.css'
+
 /* eslint no-eval: 0 */
 class Display extends React.Component {
     constructor(props) {
@@ -36,7 +36,7 @@ class Display extends React.Component {
             lastInput: n
         })
     }
-    operatorClick = (o, type, oArr) => {
+    operatorClick = (o, type) => {
         if (type === "row") {
             if (o === "AC") {
                 this.setState({
@@ -98,15 +98,15 @@ class Display extends React.Component {
         return (
             <div className="container">
                 <div className='display text-right'>
-                    <div className='answer form-control col-11 mx-auto' >
+                    <div className='answer form-control col-11 mx-auto'>
                         <h5><span className="float-left">A:</span> {this.state.finalResult}</h5>
                     </div>
-                    <div className='question form-control col-11 mx-auto mt-1' >
+                    <div className='question form-control col-11 mx-auto mt-1'>
                         <h5><span className="float-left">Q:</span>{this.state.displayValue}</h5>
                     </div>
                 </div>
                 <div className="col-12 mx-auto">
-                    <div className="d-flex flex-row justify-content-center ">
+                    <div className="d-flex flex-row">
                         <div className="col-9 ml-auto p-0">
                             <OperatorsRow operatorClick={this.operatorClick}></OperatorsRow>
                             <Numbers numberClick={this.numberClick} />

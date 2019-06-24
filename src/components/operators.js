@@ -13,7 +13,7 @@ export class OperatorsCol extends React.Component {
       if (o !== '=') {
         return <button className='btn btn-primary col-12 mt-1'
           key={o.toString()}
-          onClick={() => this.props.operatorClick(o, 'col', this.state.operators)}
+          onClick={() => this.props.operatorClick(o, 'col')}
           value={o}
         >
           <h4>{o}</h4>
@@ -21,14 +21,13 @@ export class OperatorsCol extends React.Component {
       } else {
         return <button className='btn btn-danger col-12 mt-1'
           key={o.toString()}
-          onClick={() => this.props.answerClick(o, 'col', this.state.operators)}
+          onClick={() => this.props.answerClick(o, 'col')}
           value={o}
         >
           <h4>{o}</h4>
         </button>
       }
-    }
-    )
+    })
     return (
 
       <div className='d-flex flex-column'>
