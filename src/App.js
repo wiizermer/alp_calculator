@@ -1,11 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+// import logo from './logo.svg';
+import './App.css'
 import Display from './components/display.js'
 
-function App() {
+function App () {
   return (
-    <div className="App">
+    <div className='App'>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -20,12 +20,12 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <div className="mt-4">
-        <Display/>
+      <div className='mt-4'>
+        <Display />
       </div>
-     
+
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
