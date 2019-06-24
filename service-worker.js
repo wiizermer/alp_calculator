@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alp_calculator/precache-manifest.4e02296858bd87cdd376648e6c5cc966.js"
+  "/alp_calculator/precache-manifest.33c1f8757e6def2ea2ef41b0a3749480.js"
 );
 
 self.addEventListener('message', (event) => {
