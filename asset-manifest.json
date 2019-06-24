@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/alp_calculator/static/css/main.c303ffa5.chunk.css",
-    "main.js": "/alp_calculator/static/js/main.f29337a6.chunk.js",
-    "main.js.map": "/alp_calculator/static/js/main.f29337a6.chunk.js.map",
+    "main.js": "/alp_calculator/static/js/main.208b957f.chunk.js",
+    "main.js.map": "/alp_calculator/static/js/main.208b957f.chunk.js.map",
     "runtime~main.js": "/alp_calculator/static/js/runtime~main.d6524395.js",
     "runtime~main.js.map": "/alp_calculator/static/js/runtime~main.d6524395.js.map",
     "static/js/2.0007278a.chunk.js": "/alp_calculator/static/js/2.0007278a.chunk.js",
     "static/js/2.0007278a.chunk.js.map": "/alp_calculator/static/js/2.0007278a.chunk.js.map",
     "index.html": "/alp_calculator/index.html",
-    "precache-manifest.33c1f8757e6def2ea2ef41b0a3749480.js": "/alp_calculator/precache-manifest.33c1f8757e6def2ea2ef41b0a3749480.js",
+    "precache-manifest.8730381d4244062dbb48a2c273d4c2b4.js": "/alp_calculator/precache-manifest.8730381d4244062dbb48a2c273d4c2b4.js",
     "service-worker.js": "/alp_calculator/service-worker.js",
-    "static/css/main.c303ffa5.chunk.css.map": "/alp_calculator/static/css/main.c303ffa5.chunk.css.map",
-    "static/media/logo.svg": "/alp_calculator/static/media/logo.5d5d9eef.svg"
+    "static/css/main.c303ffa5.chunk.css.map": "/alp_calculator/static/css/main.c303ffa5.chunk.css.map"
   }
 }
