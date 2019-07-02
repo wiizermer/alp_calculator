@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alp_calculator/static/css/main.2cce8147.chunk.css",
-    "main.js": "/alp_calculator/static/js/main.5225e973.chunk.js",
-    "main.js.map": "/alp_calculator/static/js/main.5225e973.chunk.js.map",
-    "runtime~main.js": "/alp_calculator/static/js/runtime~main.d6524395.js",
-    "runtime~main.js.map": "/alp_calculator/static/js/runtime~main.d6524395.js.map",
-    "static/js/2.0007278a.chunk.js": "/alp_calculator/static/js/2.0007278a.chunk.js",
-    "static/js/2.0007278a.chunk.js.map": "/alp_calculator/static/js/2.0007278a.chunk.js.map",
-    "index.html": "/alp_calculator/index.html",
-    "precache-manifest.929c7032c2934630bbbb78947a8f4e26.js": "/alp_calculator/precache-manifest.929c7032c2934630bbbb78947a8f4e26.js",
-    "service-worker.js": "/alp_calculator/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/alp_calculator/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/react_calculator/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react_calculator/static/js/main.3bdff796.chunk.js",
+    "main.js.map": "/react_calculator/static/js/main.3bdff796.chunk.js.map",
+    "runtime~main.js": "/react_calculator/static/js/runtime~main.3da5ed7c.js",
+    "runtime~main.js.map": "/react_calculator/static/js/runtime~main.3da5ed7c.js.map",
+    "static/js/2.0007278a.chunk.js": "/react_calculator/static/js/2.0007278a.chunk.js",
+    "static/js/2.0007278a.chunk.js.map": "/react_calculator/static/js/2.0007278a.chunk.js.map",
+    "index.html": "/react_calculator/index.html",
+    "precache-manifest.7d42115575cb256cc5a1da498dc3bab7.js": "/react_calculator/precache-manifest.7d42115575cb256cc5a1da498dc3bab7.js",
+    "service-worker.js": "/react_calculator/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react_calculator/static/css/main.2cce8147.chunk.css.map"
   }
 }
