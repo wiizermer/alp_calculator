@@ -33,6 +33,6 @@
   },
   "homepage": "https://wiizermer.github.io/react_calculator",
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^5.0.0"
   }
 }
